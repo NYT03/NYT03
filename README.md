@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Hello,%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20garden%20🌱&descAlignY=60&descAlign=50)
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=NYT!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20garden%20🌱&descAlignY=60&descAlign=50)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
   
